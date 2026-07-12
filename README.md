@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Luke Budny
 
-<!--
-**LukeBudny/lukebudny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer | AI Researcher | Generative AI
 
-Here are some ideas to get you started:
+I'm passionate about building end-to-end AI systems, from research through production deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- 🤖 Agentic AI
+- 📚 RAG Systems
+- 🧠 Diffusion Models
+- 🔬 ML Research
+
+---
+
+## About Me
+
+📍 Toronto, Canada
+
+🎓 MSc Data Science & AI
+
+💼 Machine Learning Engineer / Data Scientist
+
+📫 lukeswalks@hotmail.com
