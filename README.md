@@ -18,6 +18,8 @@ Currently working on:
 
 🎓 MSc Data Science & AI
 
-💼 Machine Learning Engineer / Data Scientist
+💼 https://www.linkedin.com/in/luke-budny-a8395442/
 
 📫 lukeswalks@hotmail.com
+
+
