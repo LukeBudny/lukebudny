@@ -1,6 +1,6 @@
 # Hi 👋 I'm Luke Budny
 
-Machine Learning Engineer | AI Researcher | Generative AI
+Machine Learning Engineer | AI Researcher | Data Scientist
 
 I'm passionate about building end-to-end AI systems, from research through production deployment.
 
